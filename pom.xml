@@ -98,6 +98,8 @@
     </licenses>
 
     <properties>
+        <sonar.organization>vijaya94</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <site-repo-url>scpexe://people.apache.org/www/hop.apache.org/maven/</site-repo-url>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
